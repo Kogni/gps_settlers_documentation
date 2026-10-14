@@ -1,33 +1,37 @@
-Privacy Policy – GPS Settlers
-Effective date: 2026-02-02
-GPS Settlers is a location-based game currently in testing. This Privacy Policy explains how user data is handled during development and testing.
+Privacy Policy â€“ GPS Settlers
+Effective date: 2026-10-14
+GPS Settlers is a location-based game. This Privacy Policy explains how user data is handled by the game and its services. The iOS-specific information below applies to the App Store version.
 
 Information we collect
 GPS Settlers collects limited user data required to operate the game:
 * Account information
 Such as username, password (stored in hashed form), and optional email address.
 * Authentication identifiers
-If the user chooses to log in via a third-party service (such as Google, Facebook, or Twitter), an associated identifier may be stored to enable login.
+If the user chooses to log in via Google or Apple on iOS, an associated identifier and the account information provided by that service may be used to enable login.
 * Gameplay-related data
 Such as in-game entities, progress, and actions required for core gameplay functionality.
 The app does not store precise or historical location data.
 Player location is processed transiently on the server for gameplay calculations and is not persisted.
 
 How the data is used
-Collected data is used solely to:
+Collected game data is used to:
 * Authenticate users
 * Enable core gameplay functionality
 * Maintain game state and progress
 * Support testing and development of the game
 
 Data sharing
-GPS Settlers does not share user data with third parties.
-No data is sold or used for advertising or marketing purposes.
+GPS Settlers does not sell player data or use game account information or gameplay history to personalize advertisements.
+The iOS app uses Google Maps for map display, Google or Apple for optional third-party sign-in, and Google AdMob for advertisements. These services may process information needed to provide their features, such as account information for sign-in, network and device information, diagnostic and performance data, and usage or advertisement interactions.
+The iOS app requests non-personalized advertisements and disables publisher personalization and publisher first-party identifiers. Non-personalized advertisements can still involve technical data processing by Google's advertising service. For example, an IP address can be used to estimate a general location; this is separate from the GPS position used for gameplay.
+Information about these services is available at:
+Google Privacy Policy: https://policies.google.com/privacy
+Google Mobile Ads data disclosure: https://developers.google.com/admob/ios/privacy/data-disclosure
+Apple Privacy Policy: https://www.apple.com/legal/privacy/
 
 Data security
 Reasonable technical measures are taken to protect stored data.
-Some network communication may currently occur without encrypted transport as the game is in active development and testing.
-This will be improved as development progresses.
+The current iOS app connects to the game API using HTTPS and stores its local session using the iOS Keychain.
 
 Data retention and deletion
 User data is retained while the account is active or as required for development and testing.
@@ -35,12 +39,12 @@ Users may request deletion of their account and associated data by contacting th
 
 Children
 GPS Settlers is not specifically designed for children under the age of 13.
-The game is intended for a general audience aged 13 and above.
+The iOS app requires users to confirm that they are at least 18 years old before using the game.
 
 Changes to this policy
 This Privacy Policy may be updated as the game evolves. Any changes will be reflected on this page with an updated effective date.
 
 Contact
 For questions about this Privacy Policy or data handling, contact:
-Email: <din-epost>
+Email: gpssettlers@gmail.com
 
